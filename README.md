@@ -1,4 +1,4 @@
-# TWRP device tree for motorola motorola one hyper (def)
+# TWRP device tree for motorola one hyper (def)
 
 ```
 # BACKUP REPLACE FILE
