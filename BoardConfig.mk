@@ -124,7 +124,3 @@ TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 
 ALLOW_MISSING_DEPENDENCIES := true
-# Workaround for error copying vendor files to recovery ramdisk
-BOARD_VENDORIMAGE_FILE_SYSTEM_TYPE := ext4
-TARGET_COPY_OUT_VENDOR := vendor
-TARGET_COPY_OUT_PRODUCT := product
