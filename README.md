@@ -1,8 +1,6 @@
 # TWRP device tree for motorola one hyper (def)
 
 ```
-# BACKUP REPLACE FILE
-
 #
 # Copyright (C) 2026 The Android Open Source Project
 #
