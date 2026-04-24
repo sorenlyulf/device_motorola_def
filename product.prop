@@ -1,0 +1,33 @@
+# Media
+media.stagefright.thumbnail.prefer_hw_codecs=false
+
+# Radio
+ril.subscription.types=RUIM
+
+# Miscellaneous
+ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural_wide_back
+ro.com.google.gmsversion=11_202011
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms/
+ro.com.google.ime.theme_id=4
+ro.com.google.rlzbrandcode=MOTC
+ro.config.compact_action_1=4
+ro.config.compact_action_2=2
+ro.config.use_compaction=true
+ro.gwfcactivation.disabled_carriers=1187,1492,1839
+ro.lenovo.single_hand=1
+ro.lmk.file_low_percentage=20
+ro.lmk.pgscan_limit=1500
+ro.lmk.psi_partial_stall_ms=50
+ro.lmk.swap_free_low_percentage=10
+ro.lmk.swap_util_max=90
+ro.lmk.thrashing_limit=60
+ro.lmk.threshold_decay=25
+ro.mot.base_buildid=RPF31.Q1-21-20/8a574
+ro.mot.build.customerid=retail
+ro.opa.eligible_device=true
+ro.postinstall.fstab.prefix=/product
+ro.product.property_source_order=product,product_services,odm,vendor,system
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+vendor.mm.enable.qcom_parser=4642
+
